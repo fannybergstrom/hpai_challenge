@@ -1,0 +1,13 @@
+"window","scenario","median_cost","ci95_lo_cost","ci95_hi_cost","pct_change_vs_baseline"
+"Phase 2 (Jan 13 start)","Baseline (current policy)",418,414,420,0
+"Phase 2 (Jan 13 start)","No prev. culling, faster reactive",420,411,420,0.2
+"Phase 2 (Jan 13 start)","Confinement (chicken)",1475.8,1461.2,1488.8,253.1
+"Phase 2 (Jan 13 start)","Confinement (duck)",929.8,926,932,122.4
+"Phase 2 (Jan 13 start)","No restocking <10 km",418,414,420,0
+"Phase 2 (Jan 13 start)","No restocking <3 km",418,414,420,0
+"Phase 3 (Feb 14 start)","Baseline (current policy)",1064.1,953,1200.3,0
+"Phase 3 (Feb 14 start)","No prev. culling, faster reactive",802.5,741.5,884.5,-24.6
+"Phase 3 (Feb 14 start)","Confinement (chicken)",1064.1,953,1200.3,0
+"Phase 3 (Feb 14 start)","Confinement (duck)",1537.5,1430.2,1667.3,44.5
+"Phase 3 (Feb 14 start)","No restocking <10 km",1058.1,947.7,1191.8,-0.5
+"Phase 3 (Feb 14 start)","No restocking <3 km",1063.8,953,1200.3,0

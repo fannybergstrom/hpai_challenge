@@ -1,0 +1,13 @@
+"window","scenario","median_notified","ci95_lo_notified","ci95_hi_notified","median_prev_culled","ci95_lo_prev_culled","ci95_hi_prev_culled","median_reactive_culled","ci95_lo_reactive_culled","ci95_hi_reactive_culled"
+"Phase 2 (Jan 13 start)","Baseline (current policy)",411,322,528,1321,1106,1552,381,306,468
+"Phase 2 (Jan 13 start)","No prev. culling, faster reactive",550,436,696.1,0,0,0,567,458,703.1
+"Phase 2 (Jan 13 start)","No confinement (chicken)",498,379,674,1484,1231,1574,449,353,567
+"Phase 2 (Jan 13 start)","No confinement (duck)",430,338,557,1360,1132,1562,397,320,493
+"Phase 2 (Jan 13 start)","No restocking <10 km",402,313,512,1307,1098,1543,375,301,459
+"Phase 2 (Jan 13 start)","No restocking <3 km",410,321,527,1321,1106,1552,381,306,467
+"Phase 3 (Feb 14 start)","Baseline (current policy)",108,72,157,442.5,324,577,111,76,158
+"Phase 3 (Feb 14 start)","No prev. culling, faster reactive",160,92,248,0,0,0,163,100,247
+"Phase 3 (Feb 14 start)","Confinement (chicken)",108,72,157,442.5,324,577,111,76,158
+"Phase 3 (Feb 14 start)","Confinement (duck)",101.5,68,149,426,313,558,105,73,150
+"Phase 3 (Feb 14 start)","No restocking <10 km",105,70,154,437.5,317,567,109,76,154
+"Phase 3 (Feb 14 start)","No restocking <3 km",108,72,157,442,324,577,111,76,158

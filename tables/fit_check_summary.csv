@@ -1,0 +1,3 @@
+"window","observed_total","projected_median","projected_lo95","projected_hi95","observed_within_95PI","percentile_of_observed"
+"Window: Jan 13 start",362,411,321.975,528,TRUE,0.154
+"Window: Feb 14 start",79,108,71.975,157,TRUE,0.08

@@ -1,0 +1,4 @@
+"panel","scenario","cost_weight","zero_crossing"
+"Fig 4A","Confinement (chicken)","confinement cost / premises confined",0.095183142617042
+"Fig 4A","Confinement (duck)","confinement cost / premises confined",0.041982421829274
+"Fig 4B","No prev. culling, faster reactive","preventive-culling cost / premises",0.111558215121077

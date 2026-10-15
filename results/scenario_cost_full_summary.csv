@@ -1,0 +1,13 @@
+"window","scenario","median_cost","ci95_lo_cost","ci95_hi_cost","median_farms_culled","ci95_lo_farms_culled","ci95_hi_farms_culled","median_farms_reactive_culled","ci95_lo_farms_reactive_culled","ci95_hi_farms_reactive_culled","median_farms_preventive_culled","ci95_lo_farms_preventive_culled","ci95_hi_farms_preventive_culled","median_farms_confined","ci95_lo_farms_confined","ci95_hi_farms_confined"
+"Phase 2 (Jan 13 start)","Baseline (current policy)",2815.9,2591.5,3068.6,1706.5,1420,2035,381,306,468,1321,1106,1552,2879,2846,2915
+"Phase 2 (Jan 13 start)","No prev. culling, faster reactive",2038.8,1935.5,2173.5,567,458,703.1,567,458,703.1,0,0,0,2944,2907,2982
+"Phase 2 (Jan 13 start)","No confinement (chicken)",2090.4,1794.6,2180,1954.5,1592.7,2035,449,353,567,1484,1231,1574,1024,1024,1024
+"Phase 2 (Jan 13 start)","No confinement (duck)",2346.5,2109.8,2570,1758,1458,2035,397,320,493,1360,1132,1562,1854,1821,1889
+"Phase 2 (Jan 13 start)","No restocking <10 km",2790.5,2574.9,3041.9,1688,1404,2009,375,301,459,1307,1098,1543,2864,2828,2903
+"Phase 2 (Jan 13 start)","No restocking <3 km",2813.4,2591.5,3068,1705.5,1420,2035,381,306,467,1321,1106,1552,2876,2844,2913
+"Phase 3 (Feb 14 start)","Baseline (current policy)",1069,954.7,1208.8,553,404,731.1,111,76,158,442.5,324,577,1254,1220,1286
+"Phase 3 (Feb 14 start)","No prev. culling, faster reactive",809,746.5,887.1,163,100,247,163,100,247,0,0,0,1291,1260,1323
+"Phase 3 (Feb 14 start)","Confinement (chicken)",1069,954.7,1208.8,553,404,731.1,111,76,158,442.5,324,577,1254,1220,1286
+"Phase 3 (Feb 14 start)","Confinement (duck)",1542.4,1435.7,1673,531,390,703,105,73,150,426,313,558,2234,2201,2267
+"Phase 3 (Feb 14 start)","No restocking <10 km",1063,952.5,1198.3,547,397,720,109,76,154,437.5,317,567,1252,1218,1285
+"Phase 3 (Feb 14 start)","No restocking <3 km",1068.9,954.7,1208.5,553,404,731.1,111,76,158,442,324,577,1254,1220,1286
