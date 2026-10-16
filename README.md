@@ -2,7 +2,7 @@
 
 Code and results for
 
-> Bergström F, Hill EM, Rago C, Davis CN, Tildesley MJ, Thompson RN. A spatial transmission model for evaluating interventions during highly pathogenic avian influenza outbreaks. Submitted to *Epidemics*.
+> Bergström F, Hill EM, Rago C, Davis CN, Tildesley MJ, Thompson RN. A spatial transmission model for evaluating interventions during highly pathogenic avian influenza outbreaks. *bioRxiv* (2026). https://www.biorxiv.org/content/10.64898/2026.10.14.758777v1
 
 The model was developed during the 2026 WiLiMan-ID Highly Pathogenic Avian Influenza Modelling Challenge. A spatially explicit SEINR model for poultry premises is fitted to the synthetic outbreak data in Stan, and posterior draws are used to project the outbreak over 28 days from each of two decision points (13 January and 14 February 2026, the starts of Phases 2 and 3) under alternative control strategies: preventive and reactive culling, confinement and restocking bans.
 
@@ -91,3 +91,5 @@ Not included because of their size: the raw CmdStan output files and the pointwi
 ## Data
 
 The epidemiological data were provided by the organisers of the WiLiMan-ID HPAI Modelling Challenge and describe a hypothetical outbreak on the fictional Jolly Island.
+
+The challenge itself is described in the organisers' preprint (https://www.biorxiv.org/content/10.64898/2026.10.06.756671v1).
